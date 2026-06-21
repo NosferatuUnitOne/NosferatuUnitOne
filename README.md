@@ -2,17 +2,13 @@
 
 ### Cybersecurity Student | Blue Team & Cloud Security
 
-I'm a Computer Science student based in the Philippines, focused on blue team operations, cloud security, and practical security engineering. I work with Linux, networking, SIEM tools, log analysis, automation, and lab environments to build real defensive security skills.
-
-Currently working toward AI, cloud security, and Pentesting while documenting my progress through GitHub, LinkedIn, Hack The Box, and technical writing.
-
 ---
 
 ## About Me
 
-* Computer Science student with a focus on cybersecurity and defensive security
-* Interested in Blue Team operations, SOC analysis, Cloud Security and Cloud Infastructure
-* Experienced with Linux, networking, SIEM tools, and security monitoring concepts
+* Computer Science major with a focus on cybersecurity and defensive security
+* Interested in Blue Team operations, SOC analysis, Pentesting, Cloud Security and Cloud Infastructure
+* Experienced with Linux, automation, sysadmin, networking, SIEM tools, and security monitoring concepts
 * Building practical labs around detection, automation, logging, and infrastructure security
 * Documenting my progress through GitHub, LinkedIn, Hack The Box, and technical writing
 
