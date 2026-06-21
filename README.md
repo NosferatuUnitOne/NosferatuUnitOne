@@ -2,16 +2,16 @@
 
 ### Cybersecurity Student | Blue Team & Cloud Security
 
-I'm a Computer Science student based in the Philippines, focused on building a strong foundation in cybersecurity, blue team operations, cloud security, and practical security engineering.
+I'm a Computer Science student based in the Philippines, focused on blue team operations, cloud security, and practical security engineering. I work with Linux, networking, SIEM tools, log analysis, automation, and lab environments to build real defensive security skills.
 
-My current work is centered around understanding how systems are attacked, monitored, defended, and improved. I have hands-on experience with Linux, networking, SIEM tools, log analysis, automation, and cybersecurity lab environments. I use GitHub to document my learning, build technical projects, and track my growth as I work toward roles in SOC analysis, cloud security, and DevSecOps.
+Currently working toward AI, cloud security, and Pentesting while documenting my progress through GitHub, LinkedIn, Hack The Box, and technical writing.
 
 ---
 
 ## About Me
 
 * Computer Science student with a focus on cybersecurity and defensive security
-* Interested in Blue Team operations, SOC analysis, cloud security, and DevSecOps
+* Interested in Blue Team operations, SOC analysis, Cloud Security and Cloud Infastructure
 * Experienced with Linux, networking, SIEM tools, and security monitoring concepts
 * Building practical labs around detection, automation, logging, and infrastructure security
 * Documenting my progress through GitHub, LinkedIn, Hack The Box, and technical writing
@@ -54,23 +54,17 @@ Building cybersecurity labs, improving detection skills, and learning how modern
 
 ---
 
-## What I'm Building Toward
-
-I'm working toward becoming a security professional who can understand both the technical and operational side of defense: monitoring systems, investigating suspicious activity, building useful automations, and securing cloud environments.
-
-My goal is to grow from cybersecurity student to SOC analyst, then into cloud security engineering and DevSecOps.
-
----
-
 ## Currently Improving
+
+Building practical skills for SOC analysis and cloud security through hands-on labs, security tooling, and technical documentation.
 
 * Blue Team investigation workflows
 * Linux administration and security
-* SIEM dashboards, alerts, and log analysis
 * Network traffic analysis
-* Cloud fundamentals with Azure and AWS
-* Automation for security tasks
-* AI-assisted workflows for productivity and security operations
+* Azure and AWS cloud fundamentals
+* Security automation
+* AI-assisted security workflows
+
 
 ---
 
