@@ -9,7 +9,7 @@ I build detection and monitoring labs to learn how real SOCs operate — then do
  
 **[Blue-Team-SOC-Lab](https://github.com/NosferatuUnitOne/Blue-Team-SOC-Lab)** — A self-hosted SOC environment built from scratch.
  
-- Deployed the **Wazuh stack** (Indexer, Dashboard, Manager) for log collection, threat detection, and alerting
+- Deployed the **Wazuh stack** (Indexer, Dashboard, Manager) for log collection, threat detection, and alerting 
 - Integrating **Wazuh Framwork** for centralized logging, **Shuffle** for SOAR automation, and **TheHive** for case management
 - Every build documented with a **Goal → Steps → Issues → Fixes → Verification → What I Learned** structure, including screenshots — built to show real troubleshooting, not just a finished product
 
@@ -56,6 +56,7 @@ Building detection labs, working toward CompTIA Security+, practicing on TryHack
  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Omar%20Dawood-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omar-dawood-907166283/)
 [![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-Profile-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://profile.hackthebox.com/profile/019ee466-15a4-71ac-8575-fbbf86321008)
+[![Medium](https://img.shields.io/badge/Medium-Blog-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@nosferatuunit1)
 [![X](https://img.shields.io/badge/X-NosferatuUnit1-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/NosferatuUnit1)
  
 ```bash
