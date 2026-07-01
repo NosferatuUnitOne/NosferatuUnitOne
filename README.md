@@ -10,9 +10,9 @@ I build detection and monitoring labs to learn how real SOCs operate — then do
 **[Blue-Team-SOC-Lab](https://github.com/NosferatuUnitOne/Blue-Team-SOC-Lab)** — A self-hosted SOC environment built from scratch.
  
 - Deployed the **Wazuh stack** (Indexer, Dashboard, Manager) for log collection, threat detection, and alerting
-- Integrating **Graylog** for centralized logging, **Shuffle** for SOAR automation, and **TheHive** for case management
+- Integrating **Wazuh Framwork** for centralized logging, **Shuffle** for SOAR automation, and **TheHive** for case management
 - Every build documented with a **Goal → Steps → Issues → Fixes → Verification → What I Learned** structure, including screenshots — built to show real troubleshooting, not just a finished product
-*This is the project I want recruiters to look at first.*
+
  
 ---
  
