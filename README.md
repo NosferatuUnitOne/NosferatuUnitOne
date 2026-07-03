@@ -1,5 +1,5 @@
 # Hi, I'm Omar 👋
-### Aspiring SOC Analyst | Blue Team & Cloud Security
+### SOC Analyst | Blue Team & Cloud Security
  
 I build detection and monitoring labs to learn how real SOCs operate — then document every step publicly. Currently targeting entry-level SOC Analyst / Security Operations roles.
  
