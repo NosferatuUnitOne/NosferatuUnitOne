@@ -1,7 +1,7 @@
 # Hi, I'm Omar 👋
-### SOC Analyst | Blue Team & Cloud Security
+### SOC Analyst | Blue Team & Log Pipline Automation
  
-I build detection and monitoring labs to learn how real SOCs operate — then document every step publicly. Currently targeting entry-level SOC Analyst / Security Operations roles.
+I build detection and monitoring labs to learn how real SOCs operate — then document every step publicly. Currently targeting SOC Analyst / Security Operations roles.
  
 ---
  
@@ -20,7 +20,7 @@ I build detection and monitoring labs to learn how real SOCs operate — then do
  
 ```bash
 > Security Areas
-Blue Team Operations | SOC Analysis | SIEM | Log Analysis | Cloud Security | Automation
+Blue Team Operations | SOC Analysis | SIEM | Log Analysis | Automation
 > Current Direction
 Building detection labs, working toward CompTIA Security+, practicing on TryHackMe/HTB SOC paths
 ```
