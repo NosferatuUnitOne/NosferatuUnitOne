@@ -47,14 +47,22 @@ Every project here is built to reflect real SOC workflows rather than simple tut
 The detection, triage, and incident response work most representative of day-to-day SOC and detection engineering operations.
 
 | Project | Focus | Techniques |
+|---------|-------|------------|
+| [Blue Team SOC Lab](https://github.com/NosferatuUnitOne/Blue-Team-SOC-Lab) | Log Ingestion, Log Pipeline | T1059.001, T1059, T1543 |
+| [SOAR Integrated DFIR Stack](https://github.com/NosferatuUnitOne/SOAR-Integrated-DFIR-Stack) | Alert Level Flagging and Ticket/Case Creation | Multi-Technique |
 
+## Additional Projects
+
+| Project | Focus |
+|---------|-------|
+| [Bash IP Sweep Port Scanner](https://github.com/NosferatuUnitOne/Bash-IP-Sweep-Port-Scanner) | Ping Sweeps and Scans Ports within a Network |
 
 ## Currently Building Toward
  
 - [ ] CompTIA Security+
-- [ ] TryHackMe SOC Level 1 pathway
-- [ ] Shuffle + TheHive integration into the lab (SOAR workflow)
+- [ ] CISCO CCNA
 - [ ] Writing up detection scenarios (MITRE ATT&CK mapped) from the lab
+      
 ---
  
 ## Connect With Me
