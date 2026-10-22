@@ -48,6 +48,7 @@ The detection, triage, and incident response work most representative of day-to-
 
 | Project | Focus | Techniques |
 |---------|-------|------------|
+| [AWS Cloud Detection and Response](https://github.com/NosferatuUnitOne/AWS-Cloud-Detection-And-Response) | Cloud Security Threat Investigation, Detection and Response | Multi-Technique |
 | [Blue Team SOC Lab](https://github.com/NosferatuUnitOne/Blue-Team-SOC-Lab) | Log Ingestion, Log Pipeline | T1059.001, T1059, T1543 |
 | [SOAR Integrated DFIR Stack](https://github.com/NosferatuUnitOne/SOAR-Integrated-DFIR-Stack) | Alert Level Flagging and Ticket/Case Creation | Multi-Technique |
 
